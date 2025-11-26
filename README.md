@@ -1,4 +1,4 @@
-# Base44 App
+# React food reciepe app 
 
 It's a Vite+React app .
 
